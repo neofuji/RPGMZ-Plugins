@@ -39,3 +39,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [AccelerateWindowOpenness](/AccelerateWindowOpenness.js) v1.0 (2020-08-20)
   - Accelerates/decelerates all animations opening/closing a window.
   - すべてのウィンドウの開閉アニメーションを加減速させます。
+- [CustomizeItemMessage](/CustomizeItemMessage.js) v1.0 (2020-08-24)
+  - Enables changing [Use Item] message for each item.
+  - ［アイテム使用］のメッセージをアイテムごとに変更できるようにします。
