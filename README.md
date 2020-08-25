@@ -42,3 +42,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [CustomizeItemMessage](/CustomizeItemMessage.js) v1.0 (2020-08-24)
   - Enables changing [Use Item] message for each item.
   - ［アイテム使用］のメッセージをアイテムごとに変更できるようにします。
+- [SealEscapeCommand](/SealEscapeCommand.js) v1.0 (2020-08-25)
+  - Creates a trait to disable the [Escape] command.
+  - ［逃げる］コマンドが使用できなくなる特徴を作ります。
