@@ -48,3 +48,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [ChangeFaceImageInText](/ChangeFaceImageInText.js) v1.0 (2020-08-26)
   - Enables changing the face image at any time in [Show Text].
   - ［文章の表示］の途中、任意の時点で顔グラフィックを変更できるようにします。
+- [SkillCostWithNumberFont](/SkillCostWithNumberFont.js) v1.0 (2020-08-27)
+  - Draws skill costs with the number font.
+  - スキルのコストを数字フォントで描画します。
