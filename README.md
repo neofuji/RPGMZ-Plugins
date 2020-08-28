@@ -51,3 +51,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [SkillCostWithNumberFont](/SkillCostWithNumberFont.js) v1.0 (2020-08-27)
   - Draws skill costs with the number font.
   - スキルのコストを数字フォントで描画します。
+- [ItemNumberWithNumberFont](/ItemNumberWithNumberFont.js) v1.0 (2020-08-28)
+  - Draws item numbers with the number font.
+  - アイテムの数を数字フォントで描画します。
