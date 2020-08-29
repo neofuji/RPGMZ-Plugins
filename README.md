@@ -54,3 +54,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [ItemNumberWithNumberFont](/ItemNumberWithNumberFont.js) v1.0 (2020-08-28)
   - Draws item numbers with the number font.
   - アイテムの数を数字フォントで描画します。
+- [GoldWithNumberFont](/GoldWithNumberFont.js) v1.0 (2020-08-29)
+  - Draws gold with the number font.
+  - お金を数字フォントで描画します。
