@@ -57,3 +57,6 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [GoldWithNumberFont](/GoldWithNumberFont.js) v1.0 (2020-08-29)
   - Draws gold with the number font.
   - お金を数字フォントで描画します。
+- [InputNumberWithNumberFont](/InputNumberWithNumberFont.js) v1.0 (2020-08-30)
+  - Draws [Input Number] with the number font.
+  - ［数値入力の処理］を数字フォントで描画します。
