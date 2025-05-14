@@ -8,8 +8,8 @@
  * @author Toru Higuruma
  * @url https://github.com/neofuji/RPGMZ-Plugins
  *
- * @help HideSkillByOccasion v1.0 (2020-08-20)
- * Copyright (c) 2020 Toru Higuruma
+ * @help HideSkillByOccasion v1.1 (2025-05-15)
+ * Copyright (c) 2025 Toru Higuruma
  * This plugin is provided under the MIT License.
  *
  * It does not provide plugin commands.
@@ -21,14 +21,20 @@
  * @author Toru Higuruma
  * @url https://github.com/neofuji/RPGMZ-Plugins
  *
- * @help HideSkillByOccasion v1.0 (2020-08-20)
- * Copyright (c) 2020 Toru Higuruma
+ * @help HideSkillByOccasion v1.1 (2025-05-15)
+ * Copyright (c) 2025 Toru Higuruma
  * このプラグインは MIT License の下で提供されます。
  *
  * プラグインコマンドはありません。
  */
 
 (() => {
+    if (!Window_BattleSkill.prototype.hasOwnProperty("includes")) {
+        Window_BattleSkill.prototype.includes = function(item) {
+            return Window_SkillList.prototype.includes.apply(this, arguments);
+        };
+    }
+
     const _Window_BattleSkill_includes = Window_BattleSkill.prototype.includes;
     Window_BattleSkill.prototype.includes = function(item) {
         return (

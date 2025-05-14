@@ -15,10 +15,10 @@ Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMV-P
 - [DisableSealedSkillCommand](/DisableSealedSkillCommand.js) v1.0 (2020-08-20)
   - Disables commands of sealed skill type in battle.
   - 戦闘中、封印されたスキルタイプのコマンドを選べなくします。
-- [HideSkillByOccasion](/HideSkillByOccasion.js) v1.0 (2020-08-20)
+- [HideSkillByOccasion](/HideSkillByOccasion.js) v1.1 (2025-05-15)
   - Hides skills not matching occasion in battle.
   - 戦闘中、バトル画面で使用可能でないスキルを非表示にします。
-- [HideSkillByWtype](/HideSkillByWtype.js) v1.0 (2020-08-20)
+- [HideSkillByWtype](/HideSkillByWtype.js) v1.1 (2025-05-15)
   - Hides skills not matching equipped weapon type in battle.
   - 戦闘中、必要武器の条件を満たさないスキルを非表示にします。
 - [InitTargetActorToUser](/InitTargetActorToUser.js) v1.0 (2020-08-20)
